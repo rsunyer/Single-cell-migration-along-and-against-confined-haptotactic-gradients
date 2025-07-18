@@ -1,4 +1,4 @@
-# 🧬 Source Data – *Single cell migration along and against confined haptotactic gradients*
+# Source Data – *Single cell migration along and against confined haptotactic gradients*
 
 This repository contains the Excel source data files associated with the figures from the publication:
 
